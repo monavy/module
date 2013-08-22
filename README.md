@@ -1,0 +1,4 @@
+module
+======
+
+Python module example
